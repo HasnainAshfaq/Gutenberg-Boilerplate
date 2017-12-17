@@ -58,3 +58,9 @@ require_once( GB_DIR . '/block/03-block-editable/index.php' );
  * BLOCK: Tweet.
  */
 require_once( GB_DIR . '/block/04-tweet/index.php' );
+
+/**
+ * BLOCK: Team Member.
+ */
+require_once( GB_DIR . '/block/block-our-team/index.php' );
+
